@@ -1,2 +1,2 @@
 # map-converter
-Converts specular, ambient occlusion and gloss maps into Bohemia's custom formats.
+Quick tool I made to convert specular, ambient occlusion and gloss maps into Bohemia's custom formats.
